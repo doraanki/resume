@@ -1,5 +1,53 @@
 {
   "career":{
     "info":" To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal."
+  },
+  "education":[
+    {
+      "degree":"B.tech(compuer Science and engineering)",
+      "institute":"Siddharth institute of engineering",
+      "data":["2015-19","80%"]
+    },
+    {
+      "degree":"Inter(M.P.C)",
+      "institute":"Narayana junior college",
+      "data":["2013-15","95%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Govt high school",
+      "data":["2013","92%"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "set":["Java","C","Python","C++"]
+    },
+     {
+        "title":"Wed Technologies",
+        "set":["HTML","CSS","PHP","JavaScript"]
+      },
+       {
+          "title":"Data Bases",
+          "set":["sql","mysql","Oracle"]
+        },
+        {
+          "title":"Operating Systems",
+          "set":["windows","Linux","Unix","Mac"]
+        }
+  ],
+  "achievements":[
+    {
+      "achievedData":"Got First prize in PPT presentation."
+    },
+    {
+        "achievedData":"Got First prize in Technical Quiz"
+      },
+      {
+          "achievedData":"Got First prize in Running competition"
+        }
+  ]
+
+
   }
-} 
